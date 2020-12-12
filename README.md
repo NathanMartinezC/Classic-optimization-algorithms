@@ -1,1 +1,1 @@
-# Classic-optimization-algorithms---No-constraints
+# Classic-optimization-algorithms
